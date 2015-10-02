@@ -12,6 +12,7 @@
 		2AED0E351BBE329B00642D8B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2AED0E331BBE329B00642D8B /* Main.storyboard */; };
 		2AED0E371BBE329B00642D8B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2AED0E361BBE329B00642D8B /* Assets.xcassets */; };
 		2AED0E3A1BBE329B00642D8B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2AED0E381BBE329B00642D8B /* LaunchScreen.storyboard */; };
+		2AED0E421BBE33A600642D8B /* cat-20clip-20art-pet-cat-clipart-880x1024.png in Resources */ = {isa = PBXBuildFile; fileRef = 2AED0E411BBE33A600642D8B /* cat-20clip-20art-pet-cat-clipart-880x1024.png */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		2AED0E361BBE329B00642D8B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2AED0E391BBE329B00642D8B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2AED0E3B1BBE329B00642D8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2AED0E411BBE33A600642D8B /* cat-20clip-20art-pet-cat-clipart-880x1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cat-20clip-20art-pet-cat-clipart-880x1024.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				2AED0E2F1BBE329B00642D8B /* AppDelegate.swift */,
 				2AED0E311BBE329B00642D8B /* ViewController.swift */,
+				2AED0E411BBE33A600642D8B /* cat-20clip-20art-pet-cat-clipart-880x1024.png */,
 				2AED0E331BBE329B00642D8B /* Main.storyboard */,
 				2AED0E361BBE329B00642D8B /* Assets.xcassets */,
 				2AED0E381BBE329B00642D8B /* LaunchScreen.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2AED0E421BBE33A600642D8B /* cat-20clip-20art-pet-cat-clipart-880x1024.png in Resources */,
 				2AED0E3A1BBE329B00642D8B /* LaunchScreen.storyboard in Resources */,
 				2AED0E371BBE329B00642D8B /* Assets.xcassets in Resources */,
 				2AED0E351BBE329B00642D8B /* Main.storyboard in Resources */,
